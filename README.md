@@ -1,7 +1,7 @@
 # Avaliaçao 2 - Sistemas Embarcados
  
  ## Sobre este repositório
- <p>Projeto destinado a resolução das questões 1, 2 e 5 da 2ª avaliação da disciplina de **Sistemas Embarcados** ministrada pelo professor **Vandermi João da Silva**.</p>
+ <p>Projeto destinado a resolução das questões 1, 2 e 5 da 2ª avaliação da disciplina de Sistemas Embarcados ministrada pelo professor Vandermi Joao da Silva.</p>
  
  ### Identificação
  - Aluno: Adriano dos Santos Gomes
