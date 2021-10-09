@@ -10,7 +10,7 @@
  ### Resolução
  **Questão 1 - Construa um circuito com portas lógicas que permitam modificar as saídas quando processadas. O circuito deverá receber como entrada um registrador A e B e a resposta deverá ser armazenada em X. A Saída deverá inverter o resultado do processamento. Após a construção do circuito, codifique-o usando VHDL.**
  
- ![circuito](https://github.com/GomesAdriano/Avaliacao2-Embarcados/blob/main/circuito.jpg?raw=true)
+ ![circuito](https://github.com/GomesAdriano/Avaliacao2-Embarcados/blob/main/Quest%C3%B5es/Quest%C3%A3o%201/Circuito.png?raw=true)
  
  ~~~VHDL
  library ieee;
